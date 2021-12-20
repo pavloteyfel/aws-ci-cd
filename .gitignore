@@ -1,0 +1,4 @@
+admin-role.json
+aws-auth-patch.yml
+iam-role-policy.json
+trust.json
